@@ -1,7 +1,7 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Destini 🤔
+## Udemy
+- The Complete 2020 Flutter Development Bootcamp with Dart
+- Section 11: Boss Level Challenge 2 - Denstini
 
 ## Our Goal
 
